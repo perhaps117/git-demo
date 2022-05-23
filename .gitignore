@@ -1,2 +1,5 @@
 # ignore folder
 .idea
+
+# ignore file
+Desktop.ini
